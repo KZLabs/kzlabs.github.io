@@ -44,10 +44,12 @@ button#showRightPush img {
   float: left;
 }
 .top-nav{
+	
 	float:right;
 	margin-top: 15px;
 }
 .top-header{
+	
 margin-top:50px;
 }
 .right_bt span{
@@ -66,6 +68,8 @@ margin-top:50px;
 	text-align:center;
 	left:0px;
  }
+ 
+ 
 .box_content_center{
 	background:rgba(0, 0, 0, 0.22);
 }
@@ -367,14 +371,14 @@ border-bottom: 2px solid #c3c3c3;
 	padding-bottom: 25px;
 	
 }
-.edu-grid{
+/*.edu-grid{
 position:relative;
 }
 .edu-grid img{
 position:absolute;
 top: 25%;
 left: 40%;
-}
+}*/
 /*--//education--*/
 /*--work--*/
 .work-info h3{
@@ -392,20 +396,14 @@ left: 40%;
   margin-top: 50px;
 }
 
-.work-grids img{
-width: 98%;
 
-}
 
 .work-grids .toolbar .lista{
 margin: 10px 0px 0px 0px;
 
 }
 
-.imag img{
-width: 90%;
-min-width: 70%;
-}
+
 
 .texto{
   padding-top: 5%;
@@ -414,9 +412,6 @@ text-align: justify;
 
 }
 
-.adding img{
-width: 98%;  
-}
 
 .work-grids .toolbar .centrado{
 text-align: justify;
@@ -481,33 +476,10 @@ border-radius: 6px;
 border-bottom: 2px solid #c3c3c3;
 }
 
-.entering .row img{
-width: 95%;
-}
 
-.implicit img{
-width: 98%;
-}
 
-.trace img{
-width: 98%;
-}
 
-.centre img{
-width: 100%;
-}
 
-.deleq img{
-width: 100%;
-}
-
-.addlibrary img{
-width: 99%;
-}
-
-.conttext img{
-width: 99%;
-}
 
 figcaption{
 	margin-top: 15px;
